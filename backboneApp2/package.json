@@ -21,6 +21,6 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "@emtecinc/single-spa-backbone": "^1.0.1"
+    "@emtecinc/single-spa-backbone": "^1.0.3"
   }
 }
