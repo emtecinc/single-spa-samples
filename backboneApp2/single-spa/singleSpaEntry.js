@@ -34,6 +34,4 @@ function domElementGetter() {
 		el.id = 'shell-container';
 		document.body.appendChild(el);
 	}
-
-	//return el;
 }
