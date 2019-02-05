@@ -1,10 +1,10 @@
 # single-spa-samples
 
-This repository contains the sample code which shows how to load various application created using different technology stack ex. React, Angular, Vue, Backbone, inside a [single-spa](https://single-spa.js.org/) shell.
+This repository contains the sample code which shows how to load various applications created using different technology stack ex. React, Angular, Vue, Backbone, inside a [single-spa](https://single-spa.js.org/) shell.
 
 [single-spa](https://single-spa.js.org/) is an awesome project which makes it very easy to build Front-end Microservices.
 
-This project consist of following folders
+This project consist of following folders:
 
 1. angularApp - A very minimilistic application written in [Angular](https://angular.io/).
 
