@@ -1,0 +1,18 @@
+{
+  "name": "shell",
+  "description": "shell app for integrating all the different apps",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/emtecinc/single-spa-samples",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
